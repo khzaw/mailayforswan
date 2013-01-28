@@ -1,0 +1,15 @@
+*.log
+*.pyc
+*.pot
+.DS_Store
+Icon
+.AppleDouble
+._*
+.Spotlight-V100
+.Trashes
+.LSOverride
+.DS_Store?
+Icon?
+Thumbs.db
+ehthumbs.db
+.installed.cfg

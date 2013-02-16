@@ -8,7 +8,6 @@ html, body {
   height: auto !important;
   height: 100%;
   margin: 0 auto -60px;
-  background: #eee;
 }
 
 /*Custom container*/
@@ -64,4 +63,22 @@ html, body {
     padding-right: 20px;
   }
 }
+
+.carousel {
+  padding: 20px 20px;
+
+}
+/*comments carousel*/
+.carousel-inner {
+  margin: 0 auto;
+  width: 75%;
+}
+
+blockquote small {
+  color: #aaa;
+}
+
+
+
+
 

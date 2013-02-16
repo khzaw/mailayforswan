@@ -8,14 +8,11 @@ $(document).ready(function() {
     }, 2000, 'ease');
 
     $('.guy').transition({
-        x: '90'
+        x: '100'
     }, 2000, 'ease');
 
     $('.girl').transition({
-        x: '-90'
+        x: '-100'
     }, 2000, 'ease');
 
-    $('.icon-heart').transition({
-        opacity: 1,
-    }, 2000, 'ease');
 });
